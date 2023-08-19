@@ -82,7 +82,9 @@ margin: 1.4rem 0rem;
 font-size: 1.2rem;
 color: #000;
 }
-
+.show .title-question {
+  font-weight: 800;
+}
 
 .answer {
 font-size: 1.2rem;
@@ -90,7 +92,10 @@ line-height: 1.8;
 display: none;
 }
 
+.show .answer {
+display: block;
 
+}
 
 
 
